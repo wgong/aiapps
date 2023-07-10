@@ -25,6 +25,14 @@
 - https://blog.streamlit.io/how-to-build-an-llm-powered-chatbot-with-streamlit/
 - https://github.com/wgong/hugchat
 
+# 8 tips for securely using API keys
+
+- https://blog.streamlit.io/8-tips-for-securely-using-api-keys/
+
+# Building GPT Lab with Streamlit
+- https://blog.streamlit.io/building-gpt-lab-with-streamlit/
+
+
 # LangChain
 
 ## LangChain tutorial #1: Build an LLM-powered app 
@@ -52,6 +60,7 @@
 ## Language Learning App by ShuaiGuo
 
 - git@github.com:ShuaiGuo16/language_learning_app.git
+
 
 # GPT4ALL
 
